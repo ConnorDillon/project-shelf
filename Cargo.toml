@@ -1,0 +1,12 @@
+[package]
+name = "project-shelf"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+rouille = "^3.1.1"
+form_urlencoded = "^1.0.1"
+rand = "^0.8.4"
+
+[dev-dependencies]
+ureq = "^1.5.5"
